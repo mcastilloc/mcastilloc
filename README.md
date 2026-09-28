@@ -35,7 +35,7 @@ Ingeniero en Informática (en formación) enfocado en **resiliencia de sistemas,
 | Proyecto | Descripción | Tecnos |
 | :--- | :--- | :--- |
 | 📊 **[sre-observability-stack](https://github.com/mcastilloc/sre-observability-stack)** | Stack local con Prometheus, Grafana y alertas para medir Golden Signals. | Docker, Prometheus, Grafana, Python |
-| ☁️ **[oci-iac-automation](./)** | Despliegue de infraestructura en OCI mediante Terraform y GitHub Actions. | OCI, Terraform, GH Actions |
+| ☁️ **[oci-iac-automation](https://github.com/mcastilloc/iac-cloud-automation)** | Despliegue de infraestructura en OCI mediante Terraform y GitHub Actions. | OCI, Terraform, GH Actions |
 | 🔄 **[python-cicd-pipeline](./)** | API en Python con pruebas unitarias, análisis estático y build de Docker. | Python, Docker, GitHub Actions |
 
 ---
